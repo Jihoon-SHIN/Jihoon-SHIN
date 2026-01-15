@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+https://jihoon-shin.github.io/obsidian-blog/
 <!--
 **Jihoon-SHIN/Jihoon-SHIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
